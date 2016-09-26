@@ -3,7 +3,7 @@
 I am a former career hopping, travel obsessed, frisbee playing kiwi-brit who is developing her niche in the world of coding.  I have developed a keen sense of self through my career and world exploration, whilst cultivating a passion for learning (and having fun doing it!). 
 
 I am looking for a Junior Full Stack Developer role where my learning is encouraged and nutured, in an organisation that sees  value in cultivating a fun work environment. 
-
+__underline__
 
 ## Skills
 
