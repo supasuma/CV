@@ -3,15 +3,15 @@
 I am a former career hopping, travel obsessed, frisbee playing kiwi-brit who is developing her niche in the world of coding.  I have developed a keen sense of self through my career and world exploration, whilst cultivating a passion for learning (and having fun doing it!). 
 
 I am looking for a Junior Full Stack Developer role where my learning is encouraged and nutured, in an organisation that sees  value in cultivating a fun work environment. 
-__underline__
+
 
 ## Skills
 
-#### Communication
+### Communication
 
 Across my career I have adapted to very different environments and communicated effectively. 
 
-__Project based roles__
+**_Project based roles_**
 
 As a project manager at an established tech start-up (WM360) effective written and spoken communication was essential in keeping the project on track and clients informed.  Communication with clients took the form of weekly highlight reports and phone calls whereever necessary.
 
