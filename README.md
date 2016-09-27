@@ -50,14 +50,14 @@ A 16-week intensive development bootcamp, emphasising:
 
 
 #### University of Auckland (2002 - 2008)
-##Post-graduate (2007-2008)
+####+_Post-graduate (2007-2008)
 BCom, Management (Honours 1sr class)
 
-##Under-graduate (2002 - 2005)
+####*_Under-graduate (2002 - 2005)
 BCom, Management
 BA, Psychology
 
-##Achievement
+####*_Achievement
 Received the 2005 Psychology and Management Senior Prize awarded for academic excellence
 
 ## Experience
