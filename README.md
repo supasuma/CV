@@ -50,26 +50,35 @@ A 16-week intensive development bootcamp, emphasising:
 
 
 #### University of Auckland (2002 - 2008)
-####+_Post-graduate (2007-2008)
+####*Post-graduate (2007-2008)*
 BCom, Management (Honours 1sr class)
 
-####*_Under-graduate (2002 - 2005)
+####*Under-graduate (2002 - 2005)*
 BCom, Management
 BA, Psychology
 
-####*_Achievement
+####*Achievement*
 Received the 2005 Psychology and Management Senior Prize awarded for academic excellence
 
 ## Experience
 
 **Perseid School (temporary)** (Feb 2016 to July 2016)    
 *Teaching Assistant*  
+
 **Overbury (temporary)** (April 2015 to Dec 2015)   
 *Site Secretary / Project Admin* 
+
 **Cairn Capital (temporary)** (March 2014 to Dec 2014)   
 *Project Administrator* 
+
 **WM360** (July 2013 to March 2014)     
 *HR/Recruitment Manager to Project Manager* 
+
+**Sheffield Consulting - Contract (NZ)** (Jan 2013 to June 2014)     
+*Researcher / Resourcer* 
+
+**Sheffield Consulting - Permanent (NZ)** (Jan 2009 - July 2012)    
+*Researcher / Resourcer* 
 
 <https://uk.linkedin.com/in/summerbrines>
 
