@@ -62,6 +62,8 @@ Received the 2005 Psychology and Management Senior Prize awarded for academic ex
 
 ## Experience
 
+<https://uk.linkedin.com/in/summerbrines>
+
 **Perseid School (temporary)** (Feb 2016 to July 2016)    
 *Teaching Assistant*  
 
@@ -79,8 +81,6 @@ Received the 2005 Psychology and Management Senior Prize awarded for academic ex
 
 **Sheffield Consulting - Permanent (NZ)** (Jan 2009 - July 2012)    
 *Researcher / Resourcer* 
-
-<https://uk.linkedin.com/in/summerbrines>
 
 ## Interests
 I love to travel!  For the last 8 years or so I have had a serious travel bug and this explains some intriguing gaps in my CV - but let me say that every gap was worth it!  I am a passionate player of ultimate frisbee and compete at a national and international level.  I have been to 8 world championships in the past 10 years and hope to attend many more!
