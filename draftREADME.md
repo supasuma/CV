@@ -11,6 +11,8 @@ I am looking for a Junior Full Stack Developer role where my learning is encoura
 
 ### Communication
 
+add something about makers team work communication / communicating lack of enjoyment in recruitment
+try and get more about sense of humour in
 **_Recruitment / HR roles_**
 
 Inherently these roles required frequent and effective communication between candidates and the company.  Having spent approximately 4 years in these types of roles I have developed an ease in communicating with people from a variety of backgrounds on a daily basis.
