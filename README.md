@@ -11,10 +11,10 @@ I am looking for a Junior Full Stack Developer role where my learning is encoura
 
 ### Communication
 
-My diversity of roles and environments has cultivated an effective and adaptive communication style.  From 4 years spent in Recruitment and HR roles to supply work as a Teaching Asssistant in a school for children with severe & profound learning difficulties.  
-* Recruitment/HR roles inherently require frequent and effective communication between candidates and the company, including interviewing.
-* As a supply Teaching Assistant I was given no training or orientation, to ensure high performance communication was a necessity. An offer of a permanent supply role in this case demonstrates my effective communication. 
-* Finally as a junior project manager at an established tech start-up (WM360) effective written and spoken communication was essential in keeping projects on track and clients informed.  Communication with clients took the form of weekly highlight reports and phone calls where ever necessary. For instance, A project we were running at a discount for Guinness Partnerships began to run over budget. It was necessary in this case that I diplomatically communicate we could no longer accommodate changes without incurring a cost and this was accepted without incident.     
+* A diversity of roles and environments has cultivated an effective and adaptive communication style.  
+* Recruitment/HR roles (3.5 years) inherently require frequent and effective communication between candidates and the company, including interviewing.
+* As a supply Teaching Assistant in a school for children with severe & profound learning difficulties I was given no training or orientation, to ensure high performance communication was a necessity. An offer of a permanent supply role in this case demonstrates my effective communication. 
+* As a Junior Project Manager at an established tech start-up (WM360) effective written and spoken communication was essential and took the form of weekly highlight reports and phone calls where ever necessary. In one case where we were running at a discount for a client (Guinness Partnerships) it was necessary that I diplomatically communicate we could no longer accommodate changes without incurring a cost. This was accepted without incident.     
 
 
 ### Adaptability
@@ -86,7 +86,7 @@ Received the 2005 Psychology and Management Senior Prize awarded for academic ex
 *Researcher / Resourcer* 
 
 *Linkedin Recommendation:- "Summer was a highly valued member of our professional services firm. As a researcher she was very well organised, proactive, had a high attention to detail, was lateral in her thinking and communicated effectively with her internal clients.She was reliable in delivering to deadlines and could juggle a range of priorities with aplomb. 
-Personally Summer was a delight to have in the business.She worked very constructively with a range of personalities, was intelligent in her judgements around a variety of issues and brought a great sense of humour and perspective to the rigours of a demanding environment. Summer has been with us for a total period of 2.5 years. We would employ her again without hesitation."
+Personally Summer was a delight to have in the business.She worked very constructively with a range of personalities, was intelligent in her judgements around a variety of issues and brought a great sense of humour and perspective to the rigours of a demanding environment. Summer has been with us for a total period of 2.5 years. We would employ her again without hesitation."*
 
 *August 22, 2012, Ian managed Summer at Sheffield Ltd*
 
