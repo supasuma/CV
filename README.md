@@ -2,7 +2,7 @@
 
 ## Summer Brines
 
-I am a worlds level [Ultimate Frisbee] (https://www.youtube.com/watch?v=BnLXezM3b14) playing kiwi-brit with a diverse background beginning to forge a path in the world of coding.  I have developed a keen sense of self through my career and world exploration while feeding my passion for learning and self-improvement. 
+I am a worlds level [Ultimate Frisbee] (https://www.youtube.com/watch?v=BnLXezM3b14) playing kiwi-brit with a diverse background beginning to forge my path in the world of coding.  I have developed a keen sense of self through my career and world exploration while feeding my passion for learning and self-improvement. 
 
 I am looking for a Junior Full Stack Developer role where my learning is encouraged and nurtured, in an organisation that sees value in cultivating a fun work environment. 
 
@@ -29,7 +29,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 [Frisbeegram](https://frisbeegram.herokuapp.com/) | A simple instagram replica | 2 days | Ruby on Rails, Sequelize, AWS SDK | Capybara
 [Bowling](https://github.com/supasuma/bowling-challenge) | A simple bowling game | 2 days | Javascript | Jasmine
 [Makers BnB](https://github.com/supasuma/makers-bnb) | A simple air bnb replica | 4 days | NodeJS, Javascript, Sequelize, PostgreSQL| Zombie, Mocha, Chai
-[code farm] (https://code-farm.herokuapp.com/) | A web app for teaching children to code | 4 days | Javascript, HTML5 | Poltergeist, PhantomJS
+[Code Farm] (https://code-farm.herokuapp.com/) | A web app for teaching children to code | 4 days | Javascript, Rails, HTML5 | Poltergeist, PhantomJS
 [Plyr2] (http://plyr2.herokuapp.com/) | A web-app for finding sports opponents | 9 days | NodeJS, Javascript, Sequelize, PostgreSQL| Zombie, Mocha,
 
 ## Education
