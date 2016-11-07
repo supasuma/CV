@@ -19,15 +19,13 @@ I am looking for a Junior Full Stack Developer role where my learning is encoura
 
 ### Adaptability
 
-This is well demonstrated by my ability to work across industries, both in permanent and temporary roles, and fit in with the culture. From construction, to finance, to education and tech I have been able to assimilate easily and communicate effectively.  
-
-My adaptability can also be demonstrated in a sporting environment, for instance at the most recent world championships in London. As a London-based player I had to train away from my NZ womens team and quickly assimilate into the team struture the 2 weeks leading up to the week long competition.  As the teams second highest point scorer I think this went well (I'm not really as cocky as this sounds!?). 
+* This is well demonstrated by my ability to work across industries, both in permanent and temporary roles, and fit in with the culture. From construction, to finance, to education and tech I have been able to assimilate easily and communicate effectively.  
+* My adaptability can also be demonstrated in a sporting environment, for instance at the most recent world championships in London. As a London-based player I had to train away from my NZ womens team and quickly assimilate into the team struture the 2 weeks leading up to the week long competition.  As the teams second highest point scorer I think this went well (I'm not really as cocky as this sounds!?). 
 
 
 ### Fast Learner
-This can't be better demonstrated than by my progress at [Makers Academy] (http://www.makersacademy.com/) a 12 week coding boot camp.  During this time I have learnt the bones of two programming languages (Ruby & Javascript) and am able to build some awesome applications. 
-
-After a week of learning Javascript my team and I were able to build a simple [air bnb replica] (https://github.com/supasuma/makers-bnb), the following week we built [code farm] (https://code-farm.herokuapp.com/) a web app to assist children's learning code and over the weekend I built a simple [bowling app] (https://github.com/supasuma/bowling-challenge).  
+* This can't be better demonstrated than by my progress at [Makers Academy] (http://www.makersacademy.com/) a 12 week coding boot camp.  During this time I have learnt the bones of two programming languages (Ruby & Javascript) and am able to build some awesome applications. 
+* After a week of learning Javascript my team and I were able to build a simple [air bnb replica] (https://github.com/supasuma/makers-bnb), the following week we built [code farm] (https://code-farm.herokuapp.com/) a web app to assist children's learning code and over the weekend I built a simple [bowling app] (https://github.com/supasuma/bowling-challenge).  
 
 
 ## Projects
