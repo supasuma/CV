@@ -25,7 +25,7 @@ I am looking for a Junior Full Stack Developer role where my learning is encoura
 
 ### Fast Learner
 * This can't be better demonstrated than by my progress at [Makers Academy] (http://www.makersacademy.com/) a 12 week coding boot camp.  During this time I have learnt the bones of two programming languages (Ruby & Javascript) and am able to build some awesome applications. 
-* After a week of learning Javascript my team and I were able to build a simple [air bnb replica] (https://github.com/supasuma/makers-bnb), the following week we built [code farm] (https://code-farm.herokuapp.com/) a web app to assist children's learning code and over the weekend I built a simple [bowling app] (https://github.com/supasuma/bowling-challenge).  
+* After a week of learning Javascript my team and I were able to build a simple [air bnb replica] (https://github.com/supasuma/makers-bnb), the following week we built [code farm], (https://code-farm.herokuapp.com/) a web app to assist children's learning code and over the weekend I built a simple [bowling app] (https://github.com/supasuma/bowling-challenge).  
 
 
 ## Projects
@@ -78,7 +78,7 @@ Received the 2005 Psychology and Management Senior Prize awarded for academic ex
 
 *Linkedin Recommendation:- "Summer is missed at WM, she was always thorough, keen to get involved with any projects she could, and worked hard to deliver in all situations. In addition to her work, Summer is beloved by the team here. Her positive attitude is infectious and she is an asset to any project she is a part of."*
 
-*November 7, 2016, Richard managed Summer indirectly at WM360*
+*November 7, 2016, Richard Acreman, Partner at WM Reply managed Summer indirectly at WM360*
 
 **Sheffield Consulting - Contract (NZ)** (Jan 2013 to June 2014)     
 *Researcher / Resourcer* 
@@ -86,7 +86,7 @@ Received the 2005 Psychology and Management Senior Prize awarded for academic ex
 *Linkedin Recommendation:- "Summer was a highly valued member of our professional services firm. As a researcher she was very well organised, proactive, had a high attention to detail, was lateral in her thinking and communicated effectively with her internal clients.She was reliable in delivering to deadlines and could juggle a range of priorities with aplomb. 
 Personally Summer was a delight to have in the business.She worked very constructively with a range of personalities, was intelligent in her judgements around a variety of issues and brought a great sense of humour and perspective to the rigours of a demanding environment. Summer has been with us for a total period of 2.5 years. We would employ her again without hesitation."*
 
-*August 22, 2012, Ian managed Summer at Sheffield Ltd*
+*August 22, 2012, Ian Taylor, Executive Director at Sheffield managed Summer*
 
 **Sheffield Consulting - Permanent (NZ)** (Jan 2009 - July 2012)    
 *Researcher / Resourcer* 
