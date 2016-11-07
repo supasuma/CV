@@ -2,7 +2,7 @@
 
 ## Summer Brines
 
-I am a former career hopping, travel obsessed, frisbee playing kiwi-brit who is developing her niche in the world of coding.  I have developed a keen sense of self through my career and world exploration, whilst cultivating a passion for learning (and having fun doing it!). 
+I am a worlds level [Ultimate Frisbee] (https://www.youtube.com/watch?v=BnLXezM3b14) playing kiwi-brit with a diverse background beginning to forge a path in the world of coding.  I have developed a keen sense of self through my career and world exploration while feeding my passion for learning and self-improvement. 
 
 I am looking for a Junior Full Stack Developer role where my learning is encouraged and nurtured, in an organisation that sees value in cultivating a fun work environment. 
 
@@ -11,34 +11,26 @@ I am looking for a Junior Full Stack Developer role where my learning is encoura
 
 ### Communication
 
-add something about makers team work communication / communicating lack of enjoyment in recruitment
-try and get more about sense of humour in
-**_Recruitment / HR roles_**
-
-Inherently these roles required frequent and effective communication between candidates and the company.  Having spent approximately 4 years in these types of roles I have developed an ease in communicating with people from a variety of backgrounds on a daily basis.
-
-**_Supply / Temp roles_**
-
-While working as a temp/supply employee one needs to communicate effectively, particularly asking the right questions, in order to fit in as quickly and seamlessly as possible.  I found this particularly true when working as a Teaching Assistant at a school for children with severe & profound learning difficulties.  You are given no training or orientation, the only way to ensure your performance is through effective communication, both with staff and students. I believe the offer of a permanent supply role demonstrates my good communication.  Equally, I was asked to stay on in my other temp role as a site secretary/project administrator at Overbury, a London construction firm.
-
-**_Project based roles_**
-
-As a project manager at an established tech start-up (WM360) effective written and spoken communication was essential in keeping the project on track and clients informed.  Communication with clients took the form of weekly highlight reports and phone calls where ever necessary. When a project ran into an issue this was communicated immediately with client so there were no surprises.  For instance, a project we were running at a discount for Guinness Partnerships began to run over budget due mainly to our lack of access to their staging environment and resulting bugs.  Thus I had to diplomatically communicate that we could no longer accommodate changes without incurring a cost.    
+My diversity of roles and environments has cultivated an effective and adaptive communication style.  From 4 years spent in Recruitment and HR roles to supply work as a Teaching Asssistant in a school for children with severe & profound learning difficulties.  Recruitment/HR roles inherently require frequent and effective communication between candidates and the company, including interviewing.  As a supply Teaching Assistant I was given no training or orientation, to ensure high performance communication was a necessity. An offer of a permanent supply role in this case demonstrates my effective communication. Finally as a junior project manager at an established tech start-up (WM360) effective written and spoken communication was essential in keeping projects on track and clients informed.  Communication with clients took the form of weekly highlight reports and phone calls where ever necessary. For instance, A project we were running at a discount for Guinness Partnerships began to run over budget. It was necessary in this case that I diplomatically communicate we could no longer accommodate changes without incurring a cost and this was accepted without incident.     
 
 
 ### Adaptability
 
-This is well demonstrated by my ability to work across industries, both in permanent and temporary roles, and fit in with the culture. From construction, to finance, to education, to tech I have been able to assimilate easily and communicate effectively.  
+This is well demonstrated by my ability to work across industries, both in permanent and temporary roles, and fit in with the culture. From construction, to finance, to education and tech I have been able to assimilate easily and communicate effectively.  My adaptability can also be demonstrated in a sporting environment, for instance at the most recent world championships in London. As a London-based player I had to train away from my NZ womens team and quickly assimilate into the team struture the 2 weeks leading up to the week long competition.  As the teams second highest point scorer I think this went well (I'm not really as cocky as this sounds!?). 
 
 
 ### Fast Learner
-This can't be better demonstrated than by my progress at Makers Academy after only 6 weeks.  During this time I have learnt the bones of two programming languages and am able to build some simplistic (but awesome) applications. After a week of learning javascript I was able to build a simple air bnb replica (<https://github.com/supasuma/makers-bnb>) as part of a team and this bowling app in a weekend <https://github.com/supasuma/bowling-challenge>.  NOTE TO SELF:NEED TO UPDATE READMES!!!
+This can't be better demonstrated than by my progress at [Makers Academy] (http://www.makersacademy.com/) a 12 week coding boot camp.  During this time I have learnt the bones of two programming languages and am able to build some simplistic (but awesome) applications. After a week of learning Javascript my team and I were able to build a simple [air bnb replica] (https://github.com/supasuma/makers-bnb), the following week we built [code farm] (https://code-farm.herokuapp.com/) a web app to assist children's learning code and over the weekend I built a simple [bowling app] (https://github.com/supasuma/bowling-challenge).  Our final project [Plyr2] (http://plyr2.herokuapp.com/) (*firefox optimised*) was a 9-day long effort that our team built in full-stack Javascript after only 2 weeks of experience in Javascript. I love Ruby, but it just so happened that most of my team work happened to be in Javascript, however a nice example of a weekend Ruby on Rails project was [Frisbeegram] (https://frisbeegram.herokuapp.com/)
 
 ## Projects
 
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
+[Frisbeegram](https://frisbeegram.herokuapp.com/) | A simple instagram replica | 2 days | Ruby on Rails, Sequelize, AWS SDK | Capybara
+[Bowling](https://github.com/supasuma/bowling-challenge) | A simple bowling game | 2 days | Javascript | Jasmine
 [Makers BnB](https://github.com/supasuma/makers-bnb) | A simple air bnb replica | 4 days | NodeJS, Javascript, Sequelize, PostgreSQL| Zombie, Mocha, Chai
+[code farm] (https://code-farm.herokuapp.com/) | A web app for teaching children to code | 4 days | Javascript, HTML5 | Poltergeist, PhantomJS
+[Plyr2] (http://plyr2.herokuapp.com/) | A web-app for finding sports opponents | 9 days | NodeJS, Javascript, Sequelize, PostgreSQL| Zombie, Mocha,
 
 ## Education
 
@@ -85,5 +77,5 @@ Received the 2005 Psychology and Management Senior Prize awarded for academic ex
 *Researcher / Resourcer* 
 
 ## Interests
-I love to travel!  For the last 8 years or so I have had a serious travel bug and this explains some intriguing gaps in my CV - but let me say that every gap was worth it!  I am a passionate player of ultimate frisbee and compete at a national and international level.  I have been to 8 world championships in the past 10 years and hope to attend many more!
+I love to travel!  For the last 8 years or so I have had a serious travel bug which can explain some intriguing gaps in my CV - no regrets!  I am a passionate player of Ultimate Frisbee and compete at a national and international level.  I have been to 8 world championships in the past 10 years and hope to attend many more!  I like to dabble with my creative side, notable mentions being a paper mache zebra head & pillow depicting an NZ scene in felt. 
 
