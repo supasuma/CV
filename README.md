@@ -48,7 +48,7 @@ A 16-week intensive development boot camp, emphasising:
 
 #### University of Auckland (2002 - 2008)
 ####*Post-graduate (2007-2008)*
-BCom, Management (Honour's 1sr class)
+BCom, Management (Honour's 1st class)
 
 ####*Under-graduate (2002 - 2005)*
 BCom, Management
