@@ -75,15 +75,18 @@ Received the 2005 Psychology and Management Senior Prize awarded for academic ex
 
 *November 7, 2016, Richard Acreman, Partner at WM Reply managed Summer indirectly at WM360*
 
-**Sheffield Consulting - Contract (NZ)** (Jan 2013 to June 2014)     
+**Sheffield Consulting - Contract (NZ)** (Jan 2013 to June 2013)     
 *Researcher / Resourcer* 
 
 *LinkedIn Recommendation:- "Summer was a highly valued member of our professional services firm. As a researcher she was very well organised, proactive, had a high attention to detail, was lateral in her thinking and communicated effectively with her internal clients. She was reliable in delivering to deadlines and could juggle a range of priorities with aplomb. 
-Personally Summer was a delight to have in the business. She worked very constructively with a range of personalities, was intelligent in her judgements around a variety of issues and brought a great sense of humour and perspective to the rigours of a demanding environment. Summer has been with us for a total period of 2.5 years. We would employ her again without hesitation."*
+Personally Summer was a delight to have in the business. She worked very constructively with a range of personalities, was intelligent in her judgements around a variety of issues and brought a great sense of humour and perspective to the rigours of a demanding environment. We would employ her again without hesitation."*
 
 *August 22, 2012, Ian Taylor, Executive Director at Sheffield managed Summer*
 
-**Sheffield Consulting - Permanent (NZ)** (Jan 2009 - July 2012)    
+**Univesity of Auckland - Contract (NZ)** (Feb 2011 - Aug 2011)
+*Academic Research Assistant 
+
+**Sheffield Consulting - Permanent (NZ)** (Jan 2009 - Feb 2011)    
 *Researcher / Resourcer* 
 
 ## Interests
