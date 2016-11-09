@@ -2,7 +2,7 @@
 
 ## Summer Brines
 
-I am a worlds level [Ultimate Frisbee] (https://www.youtube.com/watch?v=BnLXezM3b14) playing kiwi-brit with a diverse background beginning to forge my path in the world of coding.  I am looking for a Junior Full Stack Developer role where my learning is encouraged and nurtured, in an organisation that sees value in cultivating a fun work environment.   I have developed a keen sense of self through my career and world exploration and have a strong desire to succeed on my new path. 
+I am a worlds level [Ultimate Frisbee] (https://www.youtube.com/watch?v=BnLXezM3b14) playing kiwi-brit with a diverse background looking for a Ruby/JavaScript Junior Full Stack Developer role.  I would love to be part of an organisation that sees value in cultivating a fun work environment and supports each other.   I have developed a keen sense of self through my career and world exploration and have a strong desire to succeed on my new path. 
 
 ## Skills
 
@@ -92,4 +92,6 @@ Personally Summer was a delight to have in the business. She worked very constru
 ## Interests
 I love to travel!  For the last 8 years or so I have had a serious travel bug which can explain some intriguing gaps in my CV - no regrets!  I am a passionate player of Ultimate Frisbee and compete at a national and international level.  I have been to 8 world championships in the past 10 years and hope to attend many more!  I like to dabble with my creative side, notable mentions being a paper mache zebra head & pillow depicting an NZ scene in felt. 
 
+###Contact Details
+email:- supasuma@gmail.com
 
