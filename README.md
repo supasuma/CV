@@ -2,7 +2,7 @@
 
 ## Summer Brines
 
-I am a worlds level [Ultimate Frisbee] (https://www.youtube.com/watch?v=BnLXezM3b14) playing kiwi-brit with a diverse background looking for a Ruby/JavaScript Junior Full Stack Developer role.  I would love to be part of an organisation that sees value in cultivating a fun work environment and supports each other.  Through my career and world exploration I have developed a keen sense of self and have a strong desire to succeed on my new path. 
+I am a worlds level [Ultimate Frisbee](#https://www.youtube.com/watch?v=BnLXezM3b14) playing kiwi-brit with a diverse background looking for a Ruby/JavaScript Junior Full Stack Developer role.  I would love to be part of an organisation that sees value in cultivating a fun work environment and supports each other.  Through my career and world exploration I have developed a keen sense of self and have a strong desire to succeed on my new path. 
 
 ## Skills
 
